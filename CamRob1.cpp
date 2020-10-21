@@ -10,14 +10,14 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int a, b;
-	cout << "Ââåä³òü a, b" << endl;
+	cout << "Ã‚Ã¢Ã¥Ã¤Â³Ã²Ã¼ a, b" << endl;
 	cin >> a >> b;
 	double y = ((a != 17) || (a > 9) && (a < 100) ?
 		abs(a - b) : pow(a, 3) - pow(b, 3));
-	cout << "Ðåçóëüòàò:" << y << endl;
-	cout << "Òû ïðèåìíûé" << endl;
+	cout << "ÃÃ¥Ã§Ã³Ã«Ã¼Ã²Ã Ã²:" << y << endl;
+	cout << "Ã’Ã» Ã¯Ã°Ã¨Ã¥Ã¬Ã­Ã»Ã©" << endl;
 
 	system("pause");
 	return 0;
 }
-//[ÎÑÓÆÄÀÞ!!]
+//[ÃŽÃ‘Ã“Ã†Ã„Ãž!!]
