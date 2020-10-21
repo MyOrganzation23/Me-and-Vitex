@@ -8,7 +8,6 @@ using namespace std;
 
 int main()
 {
-	for (int i = 0; i < 5; ++i)
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	cout << setw(56) << "{TheLastChance and Vitex}" << endl;
