@@ -5,7 +5,7 @@
 usingnamespace std;
 
 
-int main() //Ты что наделал такое?))
+int main() //Ты что наделал такое?)) А что, нельзя?
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
