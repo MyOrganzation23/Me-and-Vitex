@@ -15,8 +15,9 @@ int main()
 	double y = ((a != 17) || (a > 9) && (a < 100) ?
 		abs(a - b) : pow(a, 3) - pow(b, 3));
 	cout << "Ðåçóëüòàò:" << y << endl;
-
+	cout << "Òû ïðèåìíûé" << endl;
 
 	system("pause");
 	return 0;
 }
+//[ÎÑÓÆÄÀÞ!!]
