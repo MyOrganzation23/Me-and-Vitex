@@ -15,7 +15,7 @@ int main()
 	system("color 0E");
 	
 
-
+	cout << "You are adopted" << endl;
 
 
 
