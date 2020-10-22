@@ -16,6 +16,7 @@ int main()
 	
 
 	cout << "You are adopted" << endl;
+	cout << "Сам такой!" << endl;
 
 
 
